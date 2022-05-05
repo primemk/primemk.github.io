@@ -1,21 +1,38 @@
 body {
   background-color: #B87800;
   color: #dddddd;
-  font-family: Helvetica, Times, Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   margin: 2% 2%
 }
 .exp-name {
-  background-color: #002f6c;
+  background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/06/Photos-Download-Blue-Wallpapers-HD.jpg");
+  padding: 10px 0px 0px;
 }
 
 .exp-header {
-    text-transform: uppercase;
-    border-top: 1px solid #dddddd;
-    border-bottom: 1px solid #dddddd;
+  text-transform: uppercase;
+  outline-style: dashed;
+  outline-color: #B87800;
+}
+
+.exp-l3 { 
+  padding: 0px 10px 0px;
+}
+
+.exp-navy {
+  padding: 0px 10px 0px;
+}
+
+.edu-body{
+  padding: 0px 10px 0px;
 }
 
 .edu-header {
   text-transform: uppercase;
-    border-top: 1px solid #dddddd;
-    border-bottom: 1px solid #dddddd;
+    outline-style: dashed;
+  outline-color: #B87800;
+}
+
+.spacing {
+  padding: 0px 0px 10px;
 }
